@@ -3,3 +3,16 @@
     margin-right: auto;
     width: 50%;
 }
+#colorChange {
+    border-style: solid;
+    width: 100%;
+    border-color: white;
+    text-align: center;
+    border-width: 3px;
+}
+body{
+    background-color: grey;
+}
+#v-align {
+    text-align: center;
+}
